@@ -8,3 +8,4 @@ sensitive and susceptible to noise due to vibrations and shocks.  This applicati
 accuracy and overcome drawbacks of accelerometers in an inertial navigation system.
 
 The attached code uses MPU-6050 for accelerometer readings and it uses a LPC1769 developement board to test the algorithms.
+
